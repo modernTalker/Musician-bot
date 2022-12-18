@@ -1,5 +1,5 @@
 # TelegramBotPetrov
-tg название бота @JschE_bot
+tg название бота @JschE_bot <br>
 команды для установки соответствующих библиотек:
 pip install requests
 pip install beautifulsoup4
