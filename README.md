@@ -1,9 +1,9 @@
 # TelegramBotPetrov
 tg название бота @JschE_bot <br>
-команды для установки соответствующих библиотек:
-pip install requests
-pip install beautifulsoup4
-pip install PyTelegramBotAPI
+команды для установки соответствующих библиотек: <br>
+pip install requests <br>
+pip install beautifulsoup4 <br>
+pip install PyTelegramBotAPI <br>
 
 
 Функции бота можно узнать по команде /help
